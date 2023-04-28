@@ -1,5 +1,5 @@
 # The-1.18.2-Pack
-A curated collection of minecraft mods from `1.12.18` for a private server
+A curated collection of minecraft mods from `1.18.2` for a private server
 ## Installation
 requires: `Minecraft 1.18.2` `Curse Forge Launcher`
 - In the **Minecraft** section in CurseForge, select the `Create Custom Profile`, then `import` in the popup.
