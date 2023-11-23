@@ -1,4 +1,4 @@
-# The 1.18.2 Pack
+# The 1.18 Pack
 A curated collection of minecraft mods from `1.18.2` for a private server.
 ### Installation
 Requires: `Java` `Minecraft Java 1.18.2` `Curse Forge Launcher`
