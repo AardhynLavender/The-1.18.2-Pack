@@ -11,4 +11,4 @@ The admin will update the mods both periodically. Check the Discord server for p
 ### Known Issues
 Like many packs, the controversial `Optifine` mod has conflicts with some of the mods included (`Twilight Forest`, for instance). 
 
-I've bundled `Rubidium` to replace it beast I can. And included `Dynamic Lighting` for hand-held illumination, and `Oculus` for shaders.
+I've bundled `Rubidium` to replace it best I can. And included `Dynamic Lighting` for hand-held illumination, and `Oculus` for shaders.
